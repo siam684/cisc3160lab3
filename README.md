@@ -27,4 +27,4 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Lab
 
-ImperativeSorting.java ImperativeSorting.php files both contain a bubble sort function and insertion sort function along with two helper functions that compare two values and a swap function that swaps 2 values in a array. The helper functions were included as they were reusable in both sorting functions.
+I have used the PHP and Java languages to write some imperative functions, although these languages are known more for their OOP paradigm usage they are capable of executing imperative code. ImperativeSorting.java ImperativeSorting.php files both contain a bubble sort function and insertion sort function along with two helper functions, one that compares two values and another swap function that swaps 2 values in a array. The helper functions were included as they were reusable in both sorting functions.
